@@ -16,6 +16,15 @@ db-capstone-project-meta
   │    ├───little_lemon_model.mwb <- Database Model File
   │    └───show-databases-query.sql <- DB List
   │
+  tableau/
+  │    ├───CuisineSalesAndProfit.png
+  │    ├───CustomerSales.png
+  │    ├───Dashboard.png
+  │    ├───little_lemon_visualization.twb <- Tableau File
+  │    ├───ProfitChart.png
+  │    ├───raw-dataset.xlsx <- Data Source
+  │    └───SalesBubbleChart.png
+  │
   create-a-virtual-table-to-summarize-data.sql
   create-optimized-queries-to-manage-and-analyze-data.sql
   create-sql-queries-to-add-and-update-bookings.sql
