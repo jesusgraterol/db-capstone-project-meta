@@ -19,6 +19,7 @@ USE `little_lemon_db` ;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `little_lemon_db`.`staff` (
   `id` INT NOT NULL AUTO_INCREMENT,
+  `name` VARCHAR(255) NOT NULL,
   `role` VARCHAR(255) NOT NULL,
   `salary` DECIMAL NOT NULL,
   PRIMARY KEY (`id`))
