@@ -29,6 +29,7 @@ db-capstone-project-meta
   create-optimized-queries-to-manage-and-analyze-data.sql
   create-sql-queries-to-add-and-update-bookings.sql
   create-sql-queries-to-check-available-bookings-based-on-user-input.sql
+  db-client.ipynb
 ```
 
 
